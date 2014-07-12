@@ -6,17 +6,13 @@ A curated guide for learning more about Bitcoin.
 >*“With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure and transactions effortless.”* -
 > Satoshi Nakamoto, Creator of Bitcoin
 
-* [Vocabulary]()
-* [What is Bitcoin?]()
-	* [History]()
-* [Overview]()
-	* [Wallet]()
-	* [Address]()
-	* [Blockchain]()
+### What is Bitcoin?
 
-* [How it Works: The Easy Way]()
-* [How it Works: The Hard Way]()
+[![What is Bitcoin-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
 
+**Bitcoin** or **BTC** is an online currency that holds value in all countries and isn't controlled by banks. Bitcoin transactions are made instantly and securely over the Internet and have almost 0 processing fees.
+
+### Why should I use Bitcoin?
 
 Credits
 -------
