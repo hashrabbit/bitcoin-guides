@@ -1,4 +1,4 @@
-<a href="Bitcoin@2x.png"><img width=20 src="https://github.com/shphrd/crypto-icons/raw/master/color-icons/png/@2x/Bitcoin@2x.png" alt="Bitcoin logo"></a> The Bitcoin Guide
+<a href="Bitcoin@2x.png"><img width=30 src="https://github.com/shphrd/crypto-icons/raw/master/color-icons/png/@2x/Bitcoin@2x.png" alt="Bitcoin logo"></a> The Bitcoin Guide
 =================
 
 A curated guide for learning more about Bitcoin.
