@@ -12,6 +12,8 @@
 * Is it easy to start?
 	* What do I need to do?
 * How does it work? (The Hard Way)
+* Terminology
+* Vocabulary
 
 Mod
 ---
