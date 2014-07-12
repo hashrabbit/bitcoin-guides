@@ -1,20 +1,21 @@
 <a href="Bitcoin@2x.png"><img width=100 src="https://github.com/shphrd/crypto-icons/raw/master/color-icons/png/@2x/Bitcoin@2x.png" alt="Bitcoin logo"></a>
 
-# The Bitcoin Guide
-** A curated list to learn more about the Bitcoin ecosystem **
+The Bitcoin Guide
+=================
+
+A curated guide for learning more about Bitcoin.
+
+General
+-------
 
 [Source Code](https://github.com/bitcoin/bitcoin)
 
-----------------------
-
-** TODO: Short Description of what Bitcoin is and why it's important to our future **
+*TODO: Short Description of what Bitcoin is and why it's important to our future*
 
 ----------------------
 
-## State of Bitcoin Report
-** by [CoinDesk](https://coindesk.com) **
-
-----------------------
+#__State of Bitcoin Report__
+**by [CoinDesk](https://coindesk.com)**
 
 ###2014
 
@@ -89,9 +90,11 @@ https://bitcoinfoundation.org/blog
 *This is where you can buy Bitcoin*
 
 * [Bitstamp](https://www.bitstamp.net) - Slovakian Bitcoin exchange. **The largest exchange**.
-* [BTC-e](https://btc-e.com)
-* [Cryptsy](https://www.cryptsy.com)
-* [Bter](Bter.com) - :cn:
+* [BTC-e](https://btc-e.com):ru: -
+* [Cryptsy](https://www.cryptsy.com):us: -
+* [Bter](Bter.com):cn: -
+* [itBit]()
+* ~[Mt. Gox](https://www.mtgox.com/)~
 
 ## Wallets
 * [Coinbase](https://coinbase.com) - ![]() - Coinbase is an online wallet. 
