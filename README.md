@@ -9,12 +9,12 @@ A curated guide for learning more about Bitcoin.
 * [Vocabulary]()
 * [What is Bitcoin?]()
 	* [History]()
-* [How it Works: The Easy Way]()
-	* [Overview]()
-		* [Wallet]()
-		* [Address]()
-		* [Blockchain]()
+* [Overview]()
+	* [Wallet]()
+	* [Address]()
+	* [Blockchain]()
 
+* [How it Works: The Easy Way]()
 * [How it Works: The Hard Way]()
 
 
