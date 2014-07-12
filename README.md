@@ -1,16 +1,15 @@
-The Bitcoin Guide
+<a href="Bitcoin@2x.png"><img width=20 src="https://github.com/shphrd/crypto-icons/raw/master/color-icons/png/@2x/Bitcoin@2x.png" alt="Bitcoin logo"></a> The Bitcoin Guide
 =================
 
 A curated guide for learning more about Bitcoin.
 
 >*“With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure and transactions effortless.”* -
-> Satoshi Nakamoto, Creator of Bitcoin
+> Satoshi Nakamoto, Bitcoin Creator
 
 ### What is Bitcoin?
-
-[![What is Bitcoin-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
-
 **Bitcoin** or **BTC** is an online currency that holds value in all countries and isn't controlled by banks. Bitcoin transactions are made instantly and securely over the Internet and have almost 0 processing fees.
+
+[![What is Bitcoin?-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
 
 ### Why should I use Bitcoin?
 
