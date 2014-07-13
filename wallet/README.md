@@ -1,4 +1,4 @@
-:lock: "Bitcoin Wallet
+:lock: Bitcoin Wallet
 ==============
 A __wallet__ is a computer file which holds Bitcoins. Bitcoins are sent between wallets; each is represented by one or more addresses.[[1]](trybtc.com)
 
