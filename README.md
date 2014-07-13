@@ -11,13 +11,13 @@ A curated guide for learning more about Bitcoin.
 * __Bitcoin__ transactions are made instantly and securely over the Internet and have almost 0 processing fees.
 * __Bitcoin__ is the internet equivalent of cash. Bitcoin is to cash what e-mail is to paper mail. 
 
-:movie_camera: [![What is Bitcoin?-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
+[![What is Bitcoin?-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
 
 
 
 Credits
 -------
-Thank you, :clap: [contributors](https://github.com/hashrabbit/bitcoin-guides/graphs/contributors)!
+:clap: Thank you, [contributors](https://github.com/hashrabbit/bitcoin-guides/graphs/contributors)!
 
 Guides is maintained by [HashRabbit, Inc.](https://hashrabbit.co/)
 
