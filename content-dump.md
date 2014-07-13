@@ -90,11 +90,11 @@ https://bitcoinfoundation.org/blog
 *This is where you can buy Bitcoin*
 
 * [Bitstamp](https://www.bitstamp.net) - Slovakian Bitcoin exchange. **The largest exchange**.
-* [BTC-e](https://btc-e.com):ru: -
-* [Cryptsy](https://www.cryptsy.com):us: -
-* [Bter](Bter.com):cn: -
-* [itBit]()
-* ~[Mt. Gox](https://www.mtgox.com/)~
+* [BTC-e](https://btc-e.com) :ru: -
+* [Cryptsy](https://www.cryptsy.com) :us: -
+* [Bter](Bter.com) :cn: -
+* [itBit]() :cn: - 
+* ~~[Mt. Gox](https://www.mtgox.com/)~~ :jp: - 
 
 ## Wallets
 * [Coinbase](https://coinbase.com) - ![]() - Coinbase is an online wallet. 
