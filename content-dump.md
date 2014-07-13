@@ -75,12 +75,14 @@ https://bitcoinfoundation.org/blog
 * [TryBTC](https://trybtc.com)
 * [WeUseCoins](https://www.weusecoins.com)
 
-###Articles
+Articles
+--------
 * [What Is a Bitcoin, Really?](http://preshing.com/20140127/what-is-a-bitcoin-really/)
 * [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 * [Bitcoins the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 
-### Whitepapers
+Whitepapers
+-----------
 * [Majority is not Enough: Bitcoin Mining is Vulnerable](http://arxiv.org/pdf/1311.0243v5.pdf) - by Ittay Eyal and Emin G¨un Sirer
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - by Satoshi Nakamoto
 * [Bitcoin Developer Speciﬁcation *[Working Paper]*](http://enetium.com/resources/Bitcoin.pdf) - by Krzysztof Okupski
@@ -96,14 +98,15 @@ https://bitcoinfoundation.org/blog
 * [itBit]() :cn: - 
 * ~~[Mt. Gox](https://www.mtgox.com/)~~ :jp: - 
 
+##Payment Processing
+* [BitPay]()
+* [GoCoin]()
+
+
 ## Wallets
 * [Coinbase](https://coinbase.com) - ![]() - Coinbase is an online wallet. 
 * [Blockchain](https://blockchain.info) - Blockchain.info is another online wallet
 * [Pheeva]()
-
-##Payment Processing
-* [BitPay]()
-* [GoCoin]()
 
 ##Using Bitcoin
 * [Gyft]()

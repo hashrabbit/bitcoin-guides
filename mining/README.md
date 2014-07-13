@@ -1,6 +1,6 @@
 Mining
 ======
-Bitcoin mining is the process of making computer hardware do mathematical calculations to confirm transactions for the Bitcoin network.
+Mining is the process of making computer hardware do mathematical calculations to confirm transactions for the Bitcoin network.
 
 >*“Mining gives a very different kind of mental image of what we do. We are not mining, we are processing transactions and adding blocks to the blockchain.”* -
 > Dr.Naveed Sherwani, CEO of PeerNova
@@ -28,7 +28,7 @@ Software
 
 Hardware
 --------
-* [BitFury](http://www.bitfury.org/) -  Design and production of the highest performing chips since 2011
+* [BitFury](http://www.bitfury.org/)
 * [Butterfly Labs](http://www.butterflylabs.com/)
 * [KnCMiner](https://www.kncminer.com/)
 * [Cointerra](http://cointerra.com/)
