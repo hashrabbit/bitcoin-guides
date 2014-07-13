@@ -13,6 +13,17 @@ A curated guide for learning more about Bitcoin.
 
 [![What is Bitcoin?-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
 
+
+Table of Contents
+-----------------
+* [Terminology]()
+* [History]()
+* [Wallet]()
+* [Address]()
+* [Blockchain]()
+* [Mining]()
+
+
 TODO:
 -----
 There's a lot more work to do now.
@@ -21,7 +32,6 @@ There's a lot more work to do now.
 - [ ] Complete mining guide
 - [ ] Complete wallet, address, blockchain, guide
 - [ ] Start Terminology section
-- [ ] Start Vocabulary section
 
 
 Credits
