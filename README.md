@@ -18,10 +18,10 @@ Table of Contents
 -----------------
 * [Terminology]()
 * [History]()
-* [Wallet](https://github.com/hashrabbit/bitcoin-guides/tree/master/wallet)
+* [Wallet](https://github.com/hashrabbit/bitcoin-guides/tree/master/wallet#bitcoin-wallet)
 * [Address]()
-* [Blockchain](https://github.com/hashrabbit/bitcoin-guides/tree/master/blockchain)
-* [Mining](https://github.com/hashrabbit/bitcoin-guides/tree/master/mining)
+* [Blockchain](https://github.com/hashrabbit/bitcoin-guides/tree/master/blockchain#blockchain)
+* [Mining](https://github.com/hashrabbit/bitcoin-guides/tree/master/mining#-bitcoin-mining)
 
 
 TODO:
