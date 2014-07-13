@@ -13,11 +13,17 @@ A curated guide for learning more about Bitcoin.
 
 [![What is Bitcoin?-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
 
+TODO:
+-----
+There's a lot more work to do now.
+
+- [x] ~~Setup BTC guide repo~~
+- [ ] Complete mining guide
 
 
 Credits
 -------
-:clap: Thank you, [contributors](https://github.com/hashrabbit/bitcoin-guides/graphs/contributors)!
+Thank you, [contributors](https://github.com/hashrabbit/bitcoin-guides/graphs/contributors)! :clap: 
 
 Guides is maintained by [HashRabbit, Inc.](https://hashrabbit.co/)
 
