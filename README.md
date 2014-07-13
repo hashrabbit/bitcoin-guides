@@ -19,6 +19,9 @@ There's a lot more work to do now.
 
 - [x] ~~Setup BTC guide repo~~
 - [ ] Complete mining guide
+- [ ] Complete wallet, address, blockchain, guide
+- [ ] Start Terminology section
+- [ ] Start Vocabulary section
 
 
 Credits

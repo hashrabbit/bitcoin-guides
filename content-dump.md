@@ -135,11 +135,11 @@ https://bitcoinfoundation.org/blog
 * [Pool Hashrate Distribution](https://blockchain.info/pools) - by Blockchain.info
 
 ### Mining Pools
-* [GHash.IO]()
-* [BTC Guild]()
-* [Eligius]()
-* [Slush]()
-* [Eligius]()
+* [GHash.IO](https://ghash.io/)
+* [BTC Guild](https://www.btcguild.com/)
+* [Eligius](http://eligius.st/~gateway/)
+* [Slush](https://mining.bitcoin.cz/)
+
 
 ### Bitcoin Mining Software
 * [BFGminer](https://github.com/luke-jr/bfgminer/releases/) - by Luke-Jr
