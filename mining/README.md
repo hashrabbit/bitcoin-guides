@@ -1,4 +1,4 @@
-<a href="#"><img width=30 src="http://i.imgur.com/fw3BVqH.png" alt="Bitcoin Mining"></a> Mining
+<a href="#"><img width=30 src="http://i.imgur.com/fw3BVqH.png" alt="Bitcoin Mining"></a> Bitcoin Mining
 ======
 Mining is the process of making computer hardware do mathematical calculations to confirm transactions for the Bitcoin network.
 
