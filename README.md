@@ -13,16 +13,16 @@ A curated guide for learning more about Bitcoin.
 
 [![What is Bitcoin?-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
 
-### About Bitcoin
+About Bitcoin
+-------------
 Bitcoin is a new kind of money. It's the first decentralized electronic currency, based on cryptography, not controlled by a single organization or government. Bitcoin is a peer-to-peer network, consisting of users like yourself, so no bank or payment processor is required between transacting parties; Bitcoin effectively lets you be your own bank. This decentralization is the basis for Bitcoin's security and freedom. It has the opportunity to break down global barriers like nothing that has come before it, and the adoption shows it.
 
 Bitcoin is doing for money what email did for communication. Bitcoin lets you send money to anyone online, anywhere in the world, instantly with no middleman! Think of it as money with a build in API. Similar to gold, there is only a limited number of Bitcoin in existence. Bitcoin is the revolution that has the potential to change the way we use currency.[[1]](http://boost.vc)
 
 
-
 Table of Contents
 -----------------
-* [Terminology]()
+* [Terminology](https://github.com/hashrabbit/bitcoin-guides/tree/master/learn#terminology)
 * [History]()
 * [Wallet](https://github.com/hashrabbit/bitcoin-guides/tree/master/wallet#bitcoin-wallet)
 * [Address]()
@@ -35,9 +35,9 @@ TODO:
 There's a lot more work to do now.
 
 - [x] ~~Setup BTC guide repo~~
-- [ ] Complete mining guide
+- [x] Setup mining guide
+- [x] Setup Terminology section
 - [ ] Complete wallet, address, blockchain, guide
-- [ ] Start Terminology section
 
 
 Credits
