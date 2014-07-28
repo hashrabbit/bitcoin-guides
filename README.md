@@ -35,9 +35,9 @@ TODO:
 There's a lot more work to do now.
 
 - [x] ~~Setup BTC guide repo~~
-- [x] Setup mining guide
-- [x] Setup Terminology section
-- [ ] Complete wallet, address, blockchain, guide
+- [x] ~~Setup mining guide~~
+- [x] ~~Setup Terminology section~~
+- [ ] ~~Complete wallet, address, blockchain, guide~~
 
 
 Credits
