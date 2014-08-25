@@ -24,3 +24,9 @@ Terminology
 * Signature
 * Nodes
 * Wallet
+
+
+
+# Videos
+
+[Skype = Bitcoin](http://vimeo.com/96747510#t=1m31s)
