@@ -12,14 +12,15 @@ Blogs
 Video Series
 ------------
 * [Bits Be Trippin'](https://www.youtube.com/user/BitsBeTrippin)
+* [99 Bitcoins](https://www.youtube.com/playlist?list=PLSqzhGuwB1Am0fq9g9eCYLn4YzU3bqnM6)
 
 
 Podcasts
 --------
 * [Let's Talk Bitcoin](http://letstalkbitcoin.com/)
 
-Forums
-------
-
-sub-Reddit
-----------
+Community News
+--------------
+* [ZapChain] (https://zapchain.com)
+* [Bitcoin SubReddit](https://reddit.com/r/bitcoin)
+* 
