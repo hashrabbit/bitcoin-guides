@@ -8,10 +8,11 @@ A curated guide for learning more about Bitcoin.
 
 ### What is Bitcoin?
 * __Bitcoin__ or __BTC__ is an online currency that holds value in all countries and isn't controlled by banks.
-* __Bitcoin__ transactions are made instantly and securely over the Internet and have almost 0 processing fees.
+* __Bitcoin__ transactions are made instantly and securely over t he Internet and have almost 0 processing fees.
 * __Bitcoin__ is the internet equivalent of cash. Bitcoin is to cash what e-mail is to paper mail. 
 
 [![What is Bitcoin?-YouTube](http://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)](http://www.youtube.com/watch?v=Gc2en3nHxA4)
+[![The real value of bitcoin and crypto currency technology] (https://img.youtube.com/vi/YIVAluSL9SU/0.jpg)](http://youtu.be/YIVAluSL9SU)
 
 About Bitcoin
 -------------
