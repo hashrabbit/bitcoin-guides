@@ -31,19 +31,10 @@ Table of Contents
 * [Mining](https://github.com/hashrabbit/bitcoin-guides/tree/master/mining#-bitcoin-mining)
 
 
-TODO:
------
-There's a lot more work to do now.
-
-- [x] ~~Setup BTC guide repo~~
-- [x] ~~Setup mining guide~~
-- [x] ~~Setup Terminology section~~
-- [ ] ~~Complete wallet, address, blockchain, guide~~
-
-
 Credits
 -------
-Thank you, [contributors](https://github.com/hashrabbit/bitcoin-guides/graphs/contributors)! :clap: 
+![HashRabbit](https://github.com/hashrabbit/bitcoin-guides/logo.png)
+[contributors](https://github.com/hashrabbit/bitcoin-guides/graphs/contributors)! :clap:
 
 Guides is maintained by [HashRabbit, Inc.](https://hashrabbit.co/)
 
