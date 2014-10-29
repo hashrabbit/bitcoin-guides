@@ -34,7 +34,6 @@ Table of Contents
 Credits
 -------
 ![HashRabbit](https://github.com/hashrabbit/bitcoin-guides/blob/master/logo.png)
-[contributors](https://github.com/hashrabbit/bitcoin-guides/graphs/contributors)! :clap:
 
 Guides is maintained by [HashRabbit, Inc.](https://hashrabbit.co/)
 
