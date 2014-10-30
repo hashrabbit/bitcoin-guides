@@ -35,7 +35,7 @@ Credits
 -------
 [![HashRabbit](https://github.com/hashrabbit/bitcoin-guides/blob/master/logo.png)](https://hashrabbit.co)
 
-Guides is maintained by [HashRabbit, Inc.](https://hashrabbit.co/)
+Guides are maintained by [HashRabbit, Inc.](https://hashrabbit.co/)
 
 License
 -------
